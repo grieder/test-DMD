@@ -42,3 +42,5 @@ to install:
 3. modify GRL_DIR in make.inc and SRC_DIRS in Makefile, if necessary
 4. If there is no "bin" folder, create it
 5. type "make"
+
+AG
