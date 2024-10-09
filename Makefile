@@ -1,7 +1,7 @@
-DIRBIN = ./bin
+DIRBIN = ./build
 TARGET = $(DIRBIN)/$(EXE)
-EXE = denmat_dynm_v4.5.7
-SRC_DIRS = ./src_v4.5.7
+EXE = DMD
+SRC_DIRS = ./src
 
 all: $(TARGET)
 
@@ -15,10 +15,10 @@ INC_FLAGS := $(addprefix -I,$(INC_DIRS))
 CPPFLAGS = $(INC_FLAGS) -MMD -MP
 
 $(TARGET): $(OBJS)
-	$(CC) $(CPPFLAGS) $(LDFLAGS) $(OBJS) -o $@ $(LOADLIBES) $(LDLIBS)
+	$(CC) $(CPPFLAGS) $(IFLAGS) $(LDFLAGS) $(OBJS) -o $@ $(LOADLIBES) $(LDLIBS)
 
 $(OBJS) : $(SRC_DIRS)/%.o: $(SRC_DIRS)/%.cpp
-	$(CC) $(CPPFLAGS) -c -o $@ $<
+	$(CC) $(CPPFLAGS) $(IFLAGS) -c -o $@ $<
 
 .PHONY: clean
 clean:
