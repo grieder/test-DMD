@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['v_0',['v',['../classvector3.html#a89f8f914fb5feaf20a8f4a346acba4ff',1,'vector3::v'],['../classelectronlight.html#a686869c0ab4a383ac83eed9322f8d935',1,'electronlight::v'],['../classelectron.html#a5267b624031ad21ffac8d44b1d50db64',1,'electron::v'],['../classob__1dmk.html#aef56b5a091fa86a42af9c0e0cd216892',1,'ob_1dmk::v']]],
+  ['v_5fdm_1',['v_dm',['../classelectronlight.html#ae7339986e330feff6b2edd744dde6f77',1,'electronlight']]],
+  ['v_5ffull_2',['v_full',['../classelectronlight.html#acca74da3ef6db1d33ea0271870c996e3',1,'electronlight']]],
+  ['valleyinfo_3',['valleyInfo',['../structelectron__mos2_1_1valleyInfo.html',1,'electron_mos2']]],
+  ['varend_4',['varend',['../classmymp.html#a86e36a13932e2be2c730509ed202a26c',1,'mymp']]],
+  ['varstart_5',['varstart',['../classmymp.html#a2d662e169f5366096d70ec1e3e8582b8',1,'mymp']]],
+  ['varstart_5ffrom_5fnvar_6',['varstart_from_nvar',['../classmymp.html#aa946f548813680835817a983c9d6ecd6',1,'mymp']]],
+  ['vdag_7',['vdag',['../classelectronlight.html#a1b0daddf266f95970581d726b76274ed',1,'electronlight']]],
+  ['vec3_5fdot_5fvec3array_8',['vec3_dot_vec3array',['../mymatrix_8cpp.html#ac74c7fea18af6700f824d8e1fe4206b2',1,'vec3_dot_vec3array(complex *vm, vector3&lt; double &gt; v, complex **m, int n, complex b, complex c):&#160;mymatrix.cpp'],['../mymatrix_8cpp.html#a47c7bc91649b4297efdca2bd79244d62',1,'vec3_dot_vec3array(complex *vm, vector3&lt; complex &gt; v, complex **m, int n, complex b, complex c):&#160;mymatrix.cpp'],['../mymatrix_8h.html#a8fbd76cb8e30f83ad0cf88fae33b8265',1,'vec3_dot_vec3array(complex *vm, vector3&lt; double &gt; v, complex **m, int n, complex b=c0, complex c=c0):&#160;mymatrix.cpp'],['../mymatrix_8h.html#a0e6a3b50410707135496d141e22ab575',1,'vec3_dot_vec3array(complex *vm, vector3&lt; complex &gt; v, complex **m, int n, complex b=c0, complex c=c0):&#160;mymatrix.cpp']]],
+  ['vector3_9',['vector3',['../classvector3.html',1,'vector3&lt; scalar &gt;'],['../classvector3.html#ae53eb15f0782055ae1439b8fa21794c2',1,'vector3::vector3(scalar a=scalar(), scalar b=scalar(), scalar c=scalar())'],['../classvector3.html#a5fb76a26a0994db34405f40858f23917',1,'vector3::vector3(std::vector&lt; scalar &gt; a)'],['../classvector3.html#a3458c7a5fffbc654e0100fb09f6839e6',1,'vector3::vector3(const vector3&lt; scalar2 &gt; &amp;a)']]],
+  ['vector3_2eh_10',['vector3.h',['../vector3_8h.html',1,'']]],
+  ['vector3_3c_20complex_20_3e_11',['vector3&lt; complex &gt;',['../classvector3.html',1,'']]],
+  ['vector3_3c_20double_20_3e_12',['vector3&lt; double &gt;',['../classvector3.html',1,'']]],
+  ['vector3_3c_20int_20_3e_13',['vector3&lt; int &gt;',['../classvector3.html',1,'']]],
+  ['vf_14',['vF',['../structhomogeneous__electron__gas.html#abcbbc1a9460418f9724f431865d23a92',1,'homogeneous_electron_gas::vF'],['../structcoulomb__model.html#a0a7a12846ca791c1b24af8d370501219',1,'coulomb_model::vF']]],
+  ['vinfo_15',['vinfo',['../classelectron__mos2.html#a48ffe24c786b1f34f1c37b5a5098f9a3',1,'electron_mos2']]],
+  ['volt_16',['Volt',['../group__Utilities.html#ga03677a0aece81df0433737cd11bc658f',1,'Units.h']]],
+  ['volume_17',['volume',['../classlattice.html#a942c30240d4337a4adffcd79aa9b5662',1,'lattice']]],
+  ['vpos_18',['vpos',['../classlattice.html#acd83d770fc534201c20acf52a9fd2c4e',1,'lattice::vpos'],['../classparameters.html#af852a43d3f7d3416d4a9cfb26048d1b6',1,'parameters::vpos']]],
+  ['vq_19',['vq',['../structcoulomb__model.html#a337d2b87839c69680536d140b6207617',1,'coulomb_model']]],
+  ['vq_5frpa_20',['vq_RPA',['../structcoulomb__model.html#ac97b4e5dbae53ea37436ed9e11c2bf2f',1,'coulomb_model']]],
+  ['vtrans_21',['vtrans',['../classlattice.html#af1e096838d7e5d7dae197c90d8208433',1,'lattice::vtrans'],['../classparameters.html#a94a77361fdd496153a9c7ca6127a7f7a',1,'parameters::vtrans']]]
+];
