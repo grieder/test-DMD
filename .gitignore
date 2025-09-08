@@ -1,0 +1,10 @@
+/Makefile
+/make.inc
+/make.sh
+bin/
+obj/
+.vscode/
+make-CHTC.sh
+html/
+latex/
+
