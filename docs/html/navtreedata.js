@@ -25,9 +25,6 @@
 var NAVTREE =
 [
   [ "DMD", "index.html", [
-    [ "Manual", "manual_page.html", [
-      [ "PDF Documentation", "manual_page.html#pdf_section", null ]
-    ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -62,13 +59,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Coulomb__Model_8h.html",
-"classelectron.html#adaa8e4ec4aa4dc7ce45b10b1efab95cd",
-"classelectronphonon.html#ab8169c2eec3403ceaef6fde8807f49be",
-"classparameters.html#a45f83a8f296f4a6c12137533c0c6e8f1",
-"functions_t.html",
-"myarray_8cpp.html#a5e56461ca46fa3dcf546544ae7bd2bd5",
-"structGaussianSmapling.html#a7c1e487115af6c73fac8256e0c1040ba",
-"structelecimp__model.html#a442e9ebd6714c3549e6dacc3751ea44a"
+"classelectron.html#adc18e996a0f6686e58bb8ac8a1c2fbf8",
+"classelectronphonon.html#abaa10d9acd0c04be986f50240f23e1ba",
+"classparameters.html#a4b41c18a59b72046c0bc576f179969a4",
+"functions_v.html",
+"myarray_8cpp.html#a754b78ff334c2f452619b2758de92a83",
+"structGaussianSmapling.html#aa30d5966aff210044a254667744a9eb6",
+"structelecimp__model.html#a626baba6853abf2a56eea1a93f74b528"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
