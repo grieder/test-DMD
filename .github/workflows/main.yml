@@ -1,10 +1,17 @@
+on: [push]
+
 jobs:
-  make_doc:
-    runs-on: main
+  build_Doxygen_job:
+    runs-on: ubuntu-latest
+    name: A job to build Doxygen
     steps:
       - name: Doxygen Action
-      uses: mattnotmitt/doxygen-action@1.12.0
-      with:
-      working-directory: './'
-      doxyfile-path: 'Doxygen'
-      enable-latex: true
+        uses: mattnotmitt/doxygen-action@1.12.0
+        with:
+            working-directory: 'submodule/'
+            doxyfile-path: 'docs/Doxygen'
+            enable-latex: true
+      
+      # Use the output from the `hello` step
+      - name: Get the output time
+        run: echo "The time was ${{ steps.hello.outputs.time }}"
