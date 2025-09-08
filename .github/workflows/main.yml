@@ -9,7 +9,7 @@ jobs:
         uses: mattnotmitt/doxygen-action@1.12.0
         with:
             working-directory: './'
-            doxyfile-path: './Doxygen'
+            doxyfile-path: './Doxyfile'
             enable-latex: true
       
       # Use the output from the `hello` step
