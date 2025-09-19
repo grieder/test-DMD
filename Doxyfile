@@ -951,7 +951,7 @@ WARN_LOGFILE           =
 
 INPUT                  = src_v4.5.7 \
                          docs \
-                         docs/Manual.dox
+                         manual/Manual.dox
 
 # This tag can be used to specify the character encoding of the source files
 # that doxygen parses. Internally doxygen uses the UTF-8 encoding. Doxygen uses
@@ -1418,7 +1418,7 @@ HTML_EXTRA_STYLESHEET  =
 # files will be copied as-is; there are no commands or markers available.
 # This tag requires that the tag GENERATE_HTML is set to YES.
 
-HTML_EXTRA_FILES       = docs/Manual.pdf
+HTML_EXTRA_FILES       = manual/Manual.pdf
 
 # The HTML_COLORSTYLE tag can be used to specify if the generated HTML output
 # should be rendered with a dark or light theme.
