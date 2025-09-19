@@ -13,7 +13,7 @@ class parameters{
   	double t0, tend, tstep, tstep_laser;
   	int nk1, nk2, nk3;
   	double ewind;
-  	double temperature;  
+  	double temperature; //!< Simulation temperature in Kelvin 
   	double degauss, ndegauss;
   	double mu, carrier_density; 
     bool carrier_density_means_excess_density;
