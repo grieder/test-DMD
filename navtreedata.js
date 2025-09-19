@@ -25,6 +25,9 @@
 var NAVTREE =
 [
   [ "DMD", "index.html", [
+    [ "Manual", "manual_page.html", [
+      [ "PDF Documentation", "manual_page.html#pdf_section", null ]
+    ] ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -62,10 +65,10 @@ var NAVTREEINDEX =
 "classelectron.html#ac560e521f2765e627e94b1d3404accfd",
 "classelectronphonon.html#a99c0f0d4a59dc41f9e97ff772f46a86e",
 "classparameters.html#a2eba6101a095cf4eceb31d408b072fd5",
-"functions_i.html",
-"myarray_8cpp.html#a1cac948cf57ee6636f7abe4fb2776fef",
-"structGaussianSmapling.html#a103ee0afb96255cc515941a07cda22c8",
-"structelecimp__model.html#a1f4cbc29b087557e875ae8f6d710733e"
+"functions_h.html",
+"myarray_8cpp.html#a05162db016bd1ffb96d2b67b487ffa75",
+"sparse__matrix_8h_source.html",
+"structelecimp__model.html#a17e001c453d5554cb6140a3887b3f85a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

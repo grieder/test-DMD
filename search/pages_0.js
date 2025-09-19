@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['documentation_0',['PDF Documentation',['../manual_page.html#pdf_section',1,'']]]
+  ['manual_0',['Manual',['../manual_page.html',1,'']]]
 ];
