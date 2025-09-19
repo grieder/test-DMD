@@ -4,6 +4,7 @@
 bin/
 obj/
 .vscode/
+docs/html
 make-CHTC.sh
 latex/
 
